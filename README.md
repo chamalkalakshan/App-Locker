@@ -98,15 +98,6 @@ App Locker is designed to be transparent and privacy-friendly:
 - no gesture automation
 - no screenshot capture
 
-Recommended options:
-
-- install from a trusted release channel
-- build from source
-- review the source code before installing
-- keep Google Play Protect enabled where possible
-
-This project does not recommend bypassing Play Protect.
-
 ## Important Limitations
 
 A normal third-party Android app cannot provide system-level locking on every Android device.
