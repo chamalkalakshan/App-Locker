@@ -1,6 +1,6 @@
 # App Locker
 
-Privacy-focused Android app locker built with Kotlin, Jetpack Compose, AccessibilityService, PIN/biometric authentication, local-only storage, app search, and Android 15/16 support.
+Privacy focused Android app locker built with Kotlin, Jetpack Compose, AccessibilityService, PIN/biometric authentication, local-only storage, app search, and Android 15/16 support.
 
 ## Download
 
