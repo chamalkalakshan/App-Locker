@@ -1,0 +1,45 @@
+# ── Secrets & signing ─────────────────────────────────────────────────────────
+keystore.properties
+*.keystore
+*.jks
+*.p12
+
+# ── Android SDK local config ──────────────────────────────────────────────────
+local.properties
+
+# ── Build outputs ─────────────────────────────────────────────────────────────
+**/build/
+*.apk
+*.aab
+*.aar
+*.ap_
+
+# ── Gradle ────────────────────────────────────────────────────────────────────
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# ── Android Studio / IntelliJ ─────────────────────────────────────────────────
+.idea/
+*.iml
+*.iws
+*.ipr
+*.hprof
+.DS_Store
+captures/
+
+# ── ProGuard mapping (release artifacts, not source) ─────────────────────────
+**/mapping/
+**/missing_rules.txt
+
+# ── OS noise ──────────────────────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+*~
+
+# ── Claude Code internal ──────────────────────────────────────────────────────
+.claude/
+
+# ── Local setup scripts (not part of the public repo) ────────────────────────
+SETUP_GIT.ps1

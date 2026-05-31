@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Solid black shown by the LockActivity window before Compose draws its first frame.
+         Combined with windowDisablePreview this prevents any peek at the locked app. -->
+    <color name="lock_background">#FF000000</color>
+</resources>

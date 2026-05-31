@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Locker</string>
+
+    <string name="accessibility_service_label">App Locker</string>
+    <string name="accessibility_service_description">App Locker uses Accessibility only to detect when a protected app is opened, so it can show the lock screen. App Locker does not read screen content, type text, perform gestures, intercept keystrokes, or collect personal data of any kind. No data ever leaves your device.</string>
+
+    <string name="device_admin_label">App Locker Device Admin</string>
+    <string name="device_admin_description">Optional. When active, App Locker cannot be silently uninstalled — you must first deactivate Device Admin in Settings → Security → Device Admins.</string>
+</resources>

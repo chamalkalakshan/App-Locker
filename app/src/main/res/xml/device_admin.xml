@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-policies>
+        <!-- No special policies needed; admin is only used to prevent uninstall -->
+    </uses-policies>
+</device-admin>
